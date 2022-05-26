@@ -1,6 +1,6 @@
 # EduBlocks - Blockchain Based E-Learning Platform
 
-6th Semester Minor Project on Blockchain/Smart Contract applications in Education
+Blockchain/Smart Contract applications in Education
 
 ## Features
 
@@ -38,6 +38,7 @@
 - Solidity
 - Web3.js
 - Truffle
+- Infura
 - Ganache
 - Metamask
 
@@ -61,4 +62,3 @@
    - Open new terminal, go to {download_path}/client and type "npm start"
    - You should now be greeted with the homepage :D
  
-#### Video Demo: https://www.youtube.com/watch?v=dhDUIfHSLo8
